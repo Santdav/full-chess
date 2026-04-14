@@ -13,3 +13,5 @@ app.add_middleware(
 @app.get("/")
 def root():
     return {"status": "ok"}
+
+## uvicorn main:app --reload --port 8000
