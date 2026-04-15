@@ -1,0 +1,9 @@
+{
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "mode": "vs_ai",
+  "ai_engine": "random",
+  "ai_plays_as": "black",
+  "result": "ongoing",
+  "move_history": [],
+  "clock": null
+}
